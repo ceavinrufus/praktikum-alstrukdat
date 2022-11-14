@@ -1,0 +1,1 @@
+int hitungkarakter(char karakter);
